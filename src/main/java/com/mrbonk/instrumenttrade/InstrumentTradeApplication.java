@@ -6,8 +6,8 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 @SpringBootApplication
 public class InstrumentTradeApplication {
 
-    public static void main(String[] args) {
-        SpringApplication.run(InstrumentTradeApplication.class, args);
-    }
+	public static void main(String[] args) {
+		SpringApplication.run(InstrumentTradeApplication.class, args);
+	}
 
 }
